@@ -1,6 +1,6 @@
-# TESTING Responsive Design
+# CHALLENGE Mobile first approach
 
-This is a small webpage to learn how to use Media queries in order to apply **responsive design**
+This is the challenge for **Mobile first approach**
 
 ### Link
 
@@ -8,12 +8,6 @@ click [here] (https://elenasacristan.github.io/testing-responsive/) to see the w
 
 ### What does this page?
 
-Reduce and expand the size of the browser to see how the color in the boxes change.
-
-- Screen mobile size : first box blue
-- Screen tablet size : second box green
-- Screen desktop size : third box orange
-
-Also notice how the bars become columns and change the color when we change from mobile to tablet or desktop.
+Creates three bars that will be converted to columns in the viewport size goes is bigger than 991px. (similar to a navigation bar changing from mobile to desktop view)
 
 Autor: Elena
