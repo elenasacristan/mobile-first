@@ -4,7 +4,7 @@ This is the challenge for **Mobile first approach**
 
 ### Link
 
-click [here] (https://elenasacristan.github.io/testing-responsive/) to see the website.
+click [here] (https://elenasacristan.github.io/mobile-first/) to see the website.
 
 ### What does this page?
 
